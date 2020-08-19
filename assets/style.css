@@ -5,4 +5,17 @@ h1{
 
 h2{
     background-color:orange;
+
+}
+a{
+    border-top-right-radius: 100px;
+}
+footer{
+    max-height: 150px;
+}
+.img{
+    background: url("../images/screen.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
