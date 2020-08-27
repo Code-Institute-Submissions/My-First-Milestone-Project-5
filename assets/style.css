@@ -1,23 +1,30 @@
-h1{
+    h1{
     text-align: center;
     background-color: yellow;;
-}
+    }
+    h2{
+        text-align: center;
+    background-color: yellowgreen;
+    font-size: 2px;
+    }
+
 	.row > div{
         margin-bottom: 15px;
     }
-	.title{
-        min-height: 90px;
-        background-color: orange;
-        font-size: 15px;
-        font-weight:  20px;
+	.Menu{
+     margin: 20px;
     }
-    .image{
-        background: url("../images/Screen Shot.jpg");
+    
+    
+
+    img{
         background-position: center;
         background-repeat: no-repeat;
-        min-height: 300px;
-        border-radius: 5px, green;
+        padding:15px;
+        width: 100%;
+        border: 5px black;
     }
+    
     
     .Register{
         border-top-right-radius: 100px;
@@ -31,10 +38,9 @@ h1{
         margin-bottom: -15px;
     }
     .footer{
-    max-height: 150px;
     background-color: orange;
     text-align: center;
     display: block;
-    min-height: 60px;
+    
     }  
     
