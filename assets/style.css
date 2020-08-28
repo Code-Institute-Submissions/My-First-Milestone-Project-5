@@ -14,9 +14,6 @@
 	.Menu{
      margin: 20px;
     }
-    
-    
-
     img{
         background-position: center;
         background-repeat: no-repeat;
@@ -24,8 +21,6 @@
         width: 100%;
         border: 5px black;
     }
-    
-    
     .Register{
         border-top-right-radius: 100px;
         text-align: center;
