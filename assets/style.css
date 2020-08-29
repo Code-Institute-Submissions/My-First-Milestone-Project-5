@@ -7,7 +7,6 @@ h2{
     background-color: yellowgreen;
     font-size: 2px;
     margin-left:15px;
-
 }
 .ex{
     overflow: auto;
@@ -33,6 +32,7 @@ img{
     border: 5px black;
 }
 .Register{
+    margin-block-start: 50px;
     border-top-right-radius: 100px;
     text-align: center;
     line-height: 15px;
